@@ -1,0 +1,5 @@
+C:\Users\Alexandre\source\repos\API .Net - MongoDB - 01\Projeto API .Net com MongoDB\obj\Debug\netcoreapp3.1\Projeto API .Net com MongoDB.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\API .Net - MongoDB - 01\Projeto API .Net com MongoDB\obj\Debug\netcoreapp3.1\Projeto API .Net com MongoDB.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\API .Net - MongoDB - 01\Projeto API .Net com MongoDB\obj\Debug\netcoreapp3.1\Projeto API .Net com MongoDB.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\API .Net - MongoDB - 01\Projeto API .Net com MongoDB\obj\Debug\netcoreapp3.1\Projeto API .Net com MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\API .Net - MongoDB - 01\Projeto API .Net com MongoDB\obj\Debug\netcoreapp3.1\Projeto API .Net com MongoDB.MvcApplicationPartsAssemblyInfo.cache
